@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rao Nouman Khan</h1>
 
-<!--
-**RaoNoumanKhan/RaoNoumanKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🔐 Cyber Security Student | CTF Player | Bug Hunter  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🎓 Studying Cyber Security @ QUEST
+* 🏴‍☠️ Active in CTF competitions
+* 🔍 Interested in Web Exploitation & Cryptography
+* 🚀 Learning real-world hacking techniques
+
+---
+
+## 🛠️ Skills
+
+* Python 🐍
+* Linux 🐧
+* Web Security 🌐
+* Networking 📡
+
+---
+
+## ⚔️ Tools
+
+* Burp Suite
+* Nmap
+* Wireshark
+* Metasploit
+
+---
+
+## 🎯 Goals
+
+* Become a Penetration Tester
+* Master Bug Bounty Hunting
+* Rank in CTF competitions
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/rao-nouman-khan-292807317
+* TryHackMe: https://tryhackme.com/p/RaoNoumanKhan
